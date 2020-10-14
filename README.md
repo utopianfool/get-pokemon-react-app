@@ -1,4 +1,4 @@
-#Get Pokemon React App
+# Get Pokemon React App
 
 A React application that gets Pokemon from an external public api https://pokeapi.co/api/v2/pokemon using the latest features of React (2020).
 
@@ -26,7 +26,7 @@ Run in development mode on localhost:3000
 npm start
 ```
 
-###Install Axios
+### Install Axios
 
 Open a terminal inside the root of your project and run the following:
 
