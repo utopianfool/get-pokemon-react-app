@@ -12,10 +12,10 @@ A React application that gets Pokemon from an external public api https://pokeap
 
 ## Useful commands
 
-Create a directory for your project and open a terminal inside. Run the following to create a react app template.
+Create a directory for your project and open a terminal inside. Run the following to create a react app template. Note the full stop to creatte the app from inside the current directory.
 
 ```
-npx create-react-app
+npx create-react-app .
 ```
 
 ## Start react
